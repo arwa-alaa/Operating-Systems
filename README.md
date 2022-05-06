@@ -1,2 +1,6 @@
 # Operating-Systems
 Operating Systems FOS KERNEL PROJECT
+-Page Fault Handler
+-User Heap ➔Dynamic Allocation and Free
+-User Side (malloc)                  - User Side (free)
+-Kernel Side (allocateMem)           - Kernel Side (freeMem)
